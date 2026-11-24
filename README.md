@@ -1,7 +1,7 @@
 # Task Manager REST API 
 
 
-(Test Project So passwords and config in code for understanding the flow)
+(Test Project So passwords and config in code for understanding the flow) - In production, secrets should be supplied through secure configuration or a secrets manager.
 
 A backend RESTful API built using **Java and Spring Boot** to manage tasks securely. This project demonstrates REST API development, database persistence, authentication, authorization, CSRF protection, and integration testing.
 
